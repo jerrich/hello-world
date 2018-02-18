@@ -1,5 +1,5 @@
 # hello-world
 first repository
 
-learning Python and GitHub
-following Hello World project
+I'm learning Python and GitHub
+and following the Hello World project
